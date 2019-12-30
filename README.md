@@ -5,5 +5,7 @@
 （地址参考https://github.com/ximimiao/deeplabv3-Tensorflow）
 
 data_preprocess.py 用作切图以及数据类，主要用于在训练时像model中提供batch。
+
 model.py           为tensorflow复现模型。
+
 train.py           训练过程。
